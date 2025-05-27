@@ -1,4 +1,4 @@
-Project Title: Emotion-Based Music Player using Computer Vision, Deep Learning & Voice Commands
+Project Title: Emotion-Based Music Player using Computer Vision, Deep face& Voice Commands
 Description:
 This project detects a user's emotion in real-time using webcam input and plays music based on the detected emotion.
 It uses DeepFace for emotion analysis, OpenCV for capturing images, Pygame for audio playback, and SpeechRecognition for voice-based controls.
